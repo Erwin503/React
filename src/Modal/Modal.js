@@ -14,7 +14,7 @@ export default class Modal extends React.Component {
         </button>
 
         {this.state.isOpen && (
-          <div className="moadal">
+          <div className="modal">
             <div className="modal-body">
               <h1>Creative dialog window</h1>
               <p>I'm awesome</p>
